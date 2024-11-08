@@ -6,7 +6,7 @@ A real-time sensor monitoring dashboard inspired by Tesla's technology for auton
 
 This dashboard provides a responsive and interactive visualization of real-time sensor data, designed to aid in proactive maintenance and diagnostic analysis, essential in autonomous and high-performance vehicle systems. Using WebSockets for real-time updates, MongoDB for data storage, and a predictive machine learning model, this project aims to emulate Tesla’s approach to vehicle health monitoring.
 
-![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID "Watch the Demo")
+![Watch Demo](https://www.youtube.com/watch?v=rrnR8sx6o-g0.jpg)]
 
 Click the image above to watch a video demo of the dashboard in action.
 
